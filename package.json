@@ -1,0 +1,31 @@
+{
+  "name": "adaptive-huffman-encoding",
+  "version": "1.0.0",
+  "description": "Dynamic Huffman coding with real-time compression visualization and adaptive probability updates",
+  "main": "src/adaptive-huffman.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node cli.js",
+    "example": "node examples/compress.js"
+  },
+  "keywords": [
+    "huffman",
+    "compression",
+    "encoding",
+    "adaptive",
+    "algorithm",
+    "data-structures",
+    "entropy-coding"
+  ],
+  "author": "Mohammad Hossinzehi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohammadHossinzehi/adaptive-huffman-encoding.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
